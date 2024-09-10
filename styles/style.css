@@ -1,0 +1,151 @@
+@font-face {
+    font-family: "gamefont";
+    src: url("../fonts/gamefont.eot?xeh32");
+    src: url("../fonts/gamefont.eot?xeh32#iefix") format("embedded-opentype"),
+        url("../fonts/gamefont.ttf?xeh32") format("truetype"),
+        url("../fonts/gamefont.woff?xeh32") format("woff"),
+        url("../fonts/gamefont.svg?xeh32#gamefont") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="gamefont-"],
+[class*=" gamefont-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "gamefont" !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Enable Ligatures ================ */
+    letter-spacing: 0;
+    -webkit-font-feature-settings: "liga";
+    -moz-font-feature-settings: "liga=1";
+    -moz-font-feature-settings: "liga";
+    -ms-font-feature-settings: "liga" 1;
+    font-feature-settings: "liga";
+    -webkit-font-variant-ligatures: discretionary-ligatures;
+    font-variant-ligatures: discretionary-ligatures;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.gamefont-0:before {
+    content: "\e900";
+}
+.gamefont-1:before {
+    content: "\e901";
+}
+.gamefont-2:before {
+    content: "\e902";
+}
+.gamefont-3:before {
+    content: "\e903";
+}
+.gamefont-4:before {
+    content: "\e904";
+}
+.gamefont-5:before {
+    content: "\e905";
+}
+.gamefont-6:before {
+    content: "\e906";
+}
+.gamefont-7:before {
+    content: "\e907";
+}
+.gamefont-8:before {
+    content: "\e908";
+}
+.gamefont-9:before {
+    content: "\e909";
+}
+.gamefont-A:before {
+    content: "\e90a";
+}
+.gamefont-B:before {
+    content: "\e90b";
+}
+.gamefont-C:before {
+    content: "\e90c";
+}
+.gamefont-D:before {
+    content: "\e90d";
+}
+.gamefont-E:before {
+    content: "\e90e";
+}
+.gamefont-F:before {
+    content: "\e90f";
+}
+.gamefont-font:before {
+    content: "\e910";
+}
+.gamefont-font1:before {
+    content: "\e911";
+}
+.gamefont-G:before {
+    content: "\e912";
+}
+.gamefont-H:before {
+    content: "\e913";
+}
+.gamefont-I:before {
+    content: "\e914";
+}
+.gamefont-J:before {
+    content: "\e915";
+}
+.gamefont-K:before {
+    content: "\e916";
+}
+.gamefont-L:before {
+    content: "\e917";
+}
+.gamefont-M:before {
+    content: "\e918";
+}
+.gamefont-N:before {
+    content: "\e919";
+}
+.gamefont-O:before {
+    content: "\e91a";
+}
+.gamefont-P:before {
+    content: "\e91b";
+}
+.gamefont-Q:before {
+    content: "\e91c";
+}
+.gamefont-R:before {
+    content: "\e91d";
+}
+.gamefont-S:before {
+    content: "\e91e";
+}
+.gamefont-T:before {
+    content: "\e91f";
+}
+.gamefont-U:before {
+    content: "\e920";
+}
+.gamefont-V:before {
+    content: "\e921";
+}
+.gamefont-W:before {
+    content: "\e922";
+}
+.gamefont-X:before {
+    content: "\e923";
+}
+.gamefont-Y:before {
+    content: "\e924";
+}
+.gamefont-Z:before {
+    content: "\e925";
+}
